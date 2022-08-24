@@ -1,34 +1,16 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mark Rozen Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11430</md:content-id>
-  <md:title>How do Emotion, Attention, Thought, and Arousal Work Together?</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>cbc59180-b2da-46f2-9023-2ead254f72fc</md:uuid>
-<md:slug>how-do-emotion-attention-thought-and-arousal-work-together</md:slug>
-</metadata>
-
+    <md:content-id>col11430</md:content-id>
+    <md:title>How do Emotion, Attention, Thought, and Arousal Work Together?</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>cbc59180-b2da-46f2-9023-2ead254f72fc</md:uuid>
+    <md:slug>how-do-emotion-attention-thought-and-arousal-work-together</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m43627"/>
-        
-      
-    
-    
-      <col:module document="m43629"/>
-        
-      
-    
-    
-      <col:module document="m43630"/>
-        
-      
-    
+    <col:module document="m43627"/>
+    <col:module document="m43629"/>
+    <col:module document="m43630"/>
   </col:content>
 </col:collection>
